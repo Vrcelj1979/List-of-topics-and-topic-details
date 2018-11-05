@@ -2,7 +2,7 @@
 
 Dear all,
 
-Here is my solution of topics and topics details in jinja framework.
+Here is my solution of topics list on main page and topics details in jinja framework.
 
 Br,
 Slobodan
